@@ -1,7 +1,5 @@
 import math
 import turtle
-print("Hello word")
-print("Alterado no Hub")
 x = 0
 print("mais um teste")
 print("Agora Pelo vscode! ")
