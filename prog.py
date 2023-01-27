@@ -1,8 +1,6 @@
 import math
 import turtle
-x = 0
-print("mais um teste")
-print("Agora Pelo vscode! ")
+
 def xt(t):
         return 16*math.sin(t)**3
 
